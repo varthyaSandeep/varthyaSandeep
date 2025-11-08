@@ -55,7 +55,7 @@ Outcome: Empowered underwriters with rapid, accurate creditworthiness insights v
 
 📊 GitHub Stats
 
-(Note: Replace [varthyaSandeep] with your actual GitHub username for these to work.)
+(Note: Replace [https://github.com/varthyaSandeep/] with your actual GitHub username for these to work.)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sandeep's GitHub Stats" />
