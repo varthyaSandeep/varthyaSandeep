@@ -19,7 +19,7 @@ My toolkit is built on Python and the modern AI/ML stack. I'm always learning, b
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-009688%3Fstyle%3Dfor-the-badge%26logo%3Dfastapi%26logoColor%3Dwhite" alt="FastAPI"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/MLflow-0194E2%3Fstyle%3Dfor-the-badge%26logo%3Dmlflow%26logoColor%3Dwhite" alt="MLflow"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"/>
+<img src="httpsD://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Power%2520BI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpowerbi%26logoColor%3Dblack" alt="Power BI"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
 </p>
@@ -55,11 +55,9 @@ Outcome: Empowered underwriters with rapid, accurate creditworthiness insights v
 
 📊 GitHub Stats
 
-(Note: Replace [https://github.com/varthyaSandeep/] with your actual GitHub username for these to work.)
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sandeep's GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical&hide_border=true" alt="Sandeep's Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DvarthyaSandeep%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Sandeep's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DvarthyaSandeep%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Sandeep's Top Languages" />
 </p>
 
 📫 Let's Connect!
@@ -71,6 +69,6 @@ I'm always open to connecting with fellow developers, researchers, and potential
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 <a href="mailto:varthyasandeep@gmail.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
+<img src="httpsimg.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
