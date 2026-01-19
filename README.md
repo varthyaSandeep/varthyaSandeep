@@ -95,19 +95,6 @@ I'm a **Machine Learning Engineer** with **~3 years of FinTech experience**, spe
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varthyaSandeep&show_icons=true&theme=tokyonight" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varthyaSandeep&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varthyaSandeep&theme=tokyonight" alt="streak graph" />
-</div>
-
----
-
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
 </p>
